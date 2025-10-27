@@ -2,9 +2,6 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Java
 - 📫 How to rach me in linkdin atharv-dashpute
--               
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 atharvdashpute/atharvdashpute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
