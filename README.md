@@ -1,4 +1,4 @@
-# 👩‍💻 Hey there, I'm **Atharv Dashpute**!
+#  Hey there, I'm **Atharv Dashpute**!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76C6C&lines=Full+Stack+%7C+AI+Enthusiast+%7C+Software+Engineer)](https://git.io/typing-svg)
 
