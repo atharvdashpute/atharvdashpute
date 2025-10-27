@@ -1,14 +1,12 @@
-# 👩‍💻 Hey there, I'm **Abha Mahato**!
+# 👩‍💻 Hey there, I'm **Atharv Dashpute**!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76C6C&lines=Data+Scientist+%7C+AI+Enthusiast+%7C+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76C6C&lines=Web+Development+%7C+AI+Enthusiast+%7C+Software+Engineer)](https://git.io/typing-svg)
 
-✨ **A curious third-year BTech student at ITER Bhubaneswar, exploring the realms of Data Science, AI, and Software Engineering!** ✨
+✨ **A curious Final-year BTech student at DBATU LONERE , exploring the FullStack Webdevelopment, AI, and Software Engineering!** ✨
 
 ## 🌱 **What I'm Currently Up To:**
 - 🌍 Working on exciting AI projects that merge innovation with technology.
 - 💻 Deep diving into machine learning, neural networks, and generative AI.
-- 🚀 Enhancing lunar crater images using AI (Because why not? 🚀🌕)
-- 🎓 Learning the ropes of computer science with CS50.
 
 ## 🔧 **Technologies & Tools:**
 
@@ -34,21 +32,17 @@
 
 ### Areas of Interest:
 - 🧠 Machine Learning
-- 📊 Data Science
+- 📊 Web-Devlopment 
 - 🎨 GANs
 - 🌿 Energy Efficiency Optimization
 
 ## 📈 **My Recent Projects:**
-- ✨ **[AI-Driven Maintenance Bill Optimization](https://github.com/your-repo-link):** Streamlining billing with AI, XGBoost, and Power BI.
-- ✨ **[GAN for Architectural Building Images](https://github.com/your-repo-link):** Creating architectural wonders with CGAN.
+- ✨ **[AI-Enhanced Carrier Guidence System](https://atharvdashpute.github.io/Ai-Enhanced-Carrier-Guidelnce-System/):** Streamlining billing with AI, XGBoost, and Power BI.
+- ✨ **[Car Racing game ]([https://github.com/your-repo-link](https://atharvdashpute.github.io/Car-racing-game/)):** Creating architectural wonders with CGAN.
 
-## 🎯 **Goals for 2025:**
-- 🌟 Secure a fellowship in Data Science, AI, or Software Engineering.
-- 🌟 Contribute to open-source projects and collaborate with awesome developers.
-- 🌟 Enhance my skills with more certifications and real-world projects.
 
 ## 📫 **Let's Connect!**
-- **Portfolio:** [abhamahato.in](https://abhamahato.in) 🌐
-- **LinkedIn:** [linkedin.com/in/abha-mahato](https://linkedin.com/in/abha-mahato) 💼
-- **Twitter:** [@abha_mahato](https://twitter.com/abha_mahato) 🐦
-- **Email:** abhamahato2026@gmail.com 📧
+- **Portfolio:** [atharvDashpute]() 🌐
+- **LinkedIn:** [linkedin.com/in/atharv-dashpute](https://www.linkedin.com/in/atharv-dashpute-94bba8257/) 💼
+- **Twitter:** [@its_atharv_dashpute]((https://www.threads.com/@its_atharv_dashpute?xmt=AQF0ALhuk1dI9RGRg9EvdOUrc8bNPtwNrujEkavwpeZmEj0)) 🐦
+- **Email:** atharvdashpute637@gmail.com 📧
