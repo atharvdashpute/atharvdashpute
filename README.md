@@ -1,6 +1,6 @@
 # 👩‍💻 Hey there, I'm **Atharv Dashpute**!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76C6C&lines=Web+Development+%7C+AI+Enthusiast+%7C+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76C6C&lines=Full+Stack+%7C+AI+Enthusiast+%7C+Software+Engineer)](https://git.io/typing-svg)
 
 ✨ **A curious Final-year BTech student at DBATU LONERE , exploring the FullStack Webdevelopment, AI, and Software Engineering!** ✨
 
@@ -37,12 +37,12 @@
 - 🌿 Energy Efficiency Optimization
 
 ## 📈 **My Recent Projects:**
-- ✨ **[AI-Enhanced Carrier Guidence System](https://atharvdashpute.github.io/Ai-Enhanced-Carrier-Guidelnce-System/):** Streamlining billing with AI, XGBoost, and Power BI.
-- ✨ **[Car Racing game ]([https://github.com/your-repo-link](https://atharvdashpute.github.io/Car-racing-game/)):** Creating architectural wonders with CGAN.
+- ✨ **[AI-Enhanced Carrier Guidence System](https://atharvdashpute.github.io/Ai-Enhanced-Carrier-Guidelnce-System/):** Ai-enhanced
+- ✨ **[Car Racing game](https://atharvdashpute.github.io/Car-racing-game/):** Creating Simple Car Racing Game.
 
 
 ## 📫 **Let's Connect!**
 - **Portfolio:** [atharvDashpute]() 🌐
 - **LinkedIn:** [linkedin.com/in/atharv-dashpute](https://www.linkedin.com/in/atharv-dashpute-94bba8257/) 💼
-- **Twitter:** [@its_atharv_dashpute]((https://www.threads.com/@its_atharv_dashpute?xmt=AQF0ALhuk1dI9RGRg9EvdOUrc8bNPtwNrujEkavwpeZmEj0)) 🐦
+- **Twitter:** [@its_atharv_dashpute](https://www.threads.com/@its_atharv_dashpute?xmt=AQF0ALhuk1dI9RGRg9EvdOUrc8bNPtwNrujEkavwpeZmEj0) 🐦
 - **Email:** atharvdashpute637@gmail.com 📧
