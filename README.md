@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @atharvdashpute
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to rach me in linkdin atharv-dashpute
 -               
 - 😄 Pronouns: ...
