@@ -42,7 +42,7 @@
 
 
 ## 📫 **Let's Connect!**
-- **Portfolio:** [atharvDashpute](https://atharvd-portfolio.netlify.app/) 🌐
+- **Portfolio:** [AtharvDashpute](https://atharvd-portfolio.netlify.app/) 🌐
 - **LinkedIn:** [linkedin.com/in/atharv-dashpute](https://www.linkedin.com/in/atharv-dashpute-94bba8257/) 💼
 - **Twitter:** [@its_atharv_dashpute](https://www.threads.com/@its_atharv_dashpute?xmt=AQF0ALhuk1dI9RGRg9EvdOUrc8bNPtwNrujEkavwpeZmEj0) 🐦
 - **Email:** atharvdashpute637@gmail.com 📧
